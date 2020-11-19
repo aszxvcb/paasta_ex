@@ -1,2 +1,5 @@
-Django==2.0.0
+Django==3.0.5
 gunicorn
+mysqlclient==1.4.6
+numpy==1.18.4
+Pillow==7.1.2
